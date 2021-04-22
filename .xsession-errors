@@ -1,0 +1,103 @@
+Xsession: X session started for jeki at mercredi 17 février 2021, 19:05:28 (UTC+0100)
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/994/bus
+dbus-update-activation-environment: setting DISPLAY=:1
+localuser:jeki being added to access control list
+dbus-update-activation-environment: setting SUDO_GID=1000
+dbus-update-activation-environment: setting VNCDESKTOP=raspberrypi:1 (jeki)
+dbus-update-activation-environment: setting MAIL=/var/mail/jeki
+dbus-update-activation-environment: setting LANGUAGE=fr_FR.UTF-8
+dbus-update-activation-environment: setting USER=jeki
+dbus-update-activation-environment: setting TEXTDOMAIN=Linux-PAM
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=tty
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting HOME=/opt/website
+dbus-update-activation-environment: setting OLDPWD=/home/pi
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/994/bus
+dbus-update-activation-environment: setting SUDO_UID=1000
+dbus-update-activation-environment: setting LOGNAME=jeki
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting TERM=xterm-256color
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/994
+dbus-update-activation-environment: setting DISPLAY=:1
+dbus-update-activation-environment: setting LANG=fr_FR.UTF-8
+dbus-update-activation-environment: setting LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+dbus-update-activation-environment: setting SUDO_COMMAND=/bin/su jeki
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting NO_AT_BRIDGE=1
+dbus-update-activation-environment: setting SUDO_USER=pi
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/994/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/opt/website
+dbus-update-activation-environment: setting LC_ALL=fr_FR.UTF-8
+** Message: 19:05:30.253: main.vala:101: Session is LXDE-pi
+** Message: 19:05:30.254: main.vala:102: DE is LXDE
+** Message: 19:05:30.397: main.vala:133: log directory: /opt/website/.cache/lxsession/LXDE-pi
+** Message: 19:05:30.397: main.vala:134: log path: /opt/website/.cache/lxsession/LXDE-pi/run.log
+Xsession: X session started for jeki at mercredi 17 février 2021, 19:07:43 (UTC+0100)
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/994/bus
+dbus-update-activation-environment: setting DISPLAY=:1
+localuser:jeki being added to access control list
+dbus-update-activation-environment: setting SUDO_GID=1000
+dbus-update-activation-environment: setting VNCDESKTOP=raspberrypi:1 (jeki)
+dbus-update-activation-environment: setting MAIL=/var/mail/jeki
+dbus-update-activation-environment: setting LANGUAGE=fr_FR.UTF-8
+dbus-update-activation-environment: setting USER=jeki
+dbus-update-activation-environment: setting TEXTDOMAIN=Linux-PAM
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=tty
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting HOME=/opt/website
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/994/bus
+dbus-update-activation-environment: setting SUDO_UID=1000
+dbus-update-activation-environment: setting LOGNAME=jeki
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting TERM=xterm-256color
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/994
+dbus-update-activation-environment: setting DISPLAY=:1
+dbus-update-activation-environment: setting LANG=fr_FR.UTF-8
+dbus-update-activation-environment: setting LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+dbus-update-activation-environment: setting SUDO_COMMAND=/bin/su jeki
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting NO_AT_BRIDGE=1
+dbus-update-activation-environment: setting SUDO_USER=pi
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/994/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/pi
+dbus-update-activation-environment: setting LC_ALL=fr_FR.UTF-8
+** Message: 19:07:43.380: main.vala:101: Session is LXDE-pi
+** Message: 19:07:43.381: main.vala:102: DE is LXDE
+** Message: 19:07:43.400: main.vala:133: log directory: /opt/website/.cache/lxsession/LXDE-pi
+** Message: 19:07:43.401: main.vala:134: log path: /opt/website/.cache/lxsession/LXDE-pi/run.log
+Xsession: X session started for jeki at mercredi 17 février 2021, 19:08:26 (UTC+0100)
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/994/bus
+dbus-update-activation-environment: setting DISPLAY=:1
+localuser:jeki being added to access control list
+dbus-update-activation-environment: setting SUDO_GID=1000
+dbus-update-activation-environment: setting VNCDESKTOP=raspberrypi:1 (jeki)
+dbus-update-activation-environment: setting MAIL=/var/mail/jeki
+dbus-update-activation-environment: setting LANGUAGE=fr_FR.UTF-8
+dbus-update-activation-environment: setting USER=jeki
+dbus-update-activation-environment: setting TEXTDOMAIN=Linux-PAM
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=tty
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting HOME=/opt/website
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/994/bus
+dbus-update-activation-environment: setting SUDO_UID=1000
+dbus-update-activation-environment: setting LOGNAME=jeki
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting TERM=xterm-256color
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/994
+dbus-update-activation-environment: setting DISPLAY=:1
+dbus-update-activation-environment: setting LANG=fr_FR.UTF-8
+dbus-update-activation-environment: setting LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+dbus-update-activation-environment: setting SUDO_COMMAND=/bin/su jeki
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting NO_AT_BRIDGE=1
+dbus-update-activation-environment: setting SUDO_USER=pi
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/994/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/pi
+dbus-update-activation-environment: setting LC_ALL=fr_FR.UTF-8
+** Message: 19:08:26.608: main.vala:101: Session is LXDE-pi
+** Message: 19:08:26.609: main.vala:102: DE is LXDE
+** Message: 19:08:26.629: main.vala:133: log directory: /opt/website/.cache/lxsession/LXDE-pi
+** Message: 19:08:26.629: main.vala:134: log path: /opt/website/.cache/lxsession/LXDE-pi/run.log

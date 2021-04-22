@@ -1,0 +1,271 @@
+** Message: 19:08:26.630: environement.vala:58: Exporting primary_variable
+** Message: 19:08:26.630: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 19:08:26.630: environement.vala:150: confir_dirs is null, export : /etc/xdg
+** Message: 19:08:26.630: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 19:08:26.630: environement.vala:218: custom_data :
+** Message: 19:08:26.630: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 19:08:26.630: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 19:08:26.630: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 19:08:26.630: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 19:08:26.630: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 19:08:26.630: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 19:08:26.630: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 19:08:26.630: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:21747): WARNING **: 19:08:26.630: utils.vala:70: Aucun fichier ou dossier de ce type
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « iGtk/ColorScheme » dans le groupe « GTK »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « windows_manager/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « panel/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « dock/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « file_manager/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « desktop_manager/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « launcher_manager/autostart » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « composite_manager/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « im1/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « im2/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « widget1/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « notification/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « keybindings/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « im_manager/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « screensaver/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « power_manager/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « audio_manager/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « workspace_manager/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « screenshot_manager/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « message_manager/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « upgrade_manager/command » dans le groupe « Session »
+** Message: 19:08:26.631: settings.vala:540: Le fichier de clés ne contient pas de clé « updates_manager/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « updates_manager/timeout » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « crash_manager/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « crash_manager/dev_mode » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « crash_manager/timeout » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « upstart_user_session » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « proxy_manager/http » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « a11y/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « xrandr/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « network_gui/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « webbrowser/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « email/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « pdf_reader/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « video_player/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « audio_player/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « images_display/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « text_editor/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « archive/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « charmap/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « calculator/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « spreadsheet/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « bittorent/command » dans le groupe « Session »
+** Message: 19:08:26.632: settings.vala:540: Le fichier de clés ne contient pas de clé « document/command » dans le groupe « Session »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « webcam/command » dans le groupe « Session »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « burn/command » dans le groupe « Session »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « notes/command » dans le groupe « Session »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « disk_utility/command » dans le groupe « Session »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « tasks/command » dans le groupe « Session »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés n’a pas de groupe « Keymap »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « laptop_mode » dans le groupe « State »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « gnome » dans le groupe « Dbus »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « type » dans le groupe « Environment »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « ubuntu_menuproxy » dans le groupe « Environment »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « toolkit_integration » dans le groupe « Environment »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « gtk/overlay_scrollbar_disable » dans le groupe « Environment »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « qt/force_theme » dans le groupe « Environment »
+** Message: 19:08:26.633: settings.vala:540: Le fichier de clés ne contient pas de clé « qt/platform » dans le groupe « Environment »
+** Message: 19:08:26.634: settings.vala:462: Monitoring: /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 19:08:26.634: settings.vala:470: Desktop file is not in config home, monitoring creation of it
+** Message: 19:08:26.634: settings.vala:485: Monitoring home path: /opt/website/.config/lxsession/LXDE-pi/desktop.conf
+** Message: 19:08:26.634: environement.vala:79: Exporting variable
+** Message: 19:08:26.634: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 19:08:26.634: environement.vala:177: custom_config :
+** Message: 19:08:26.634: environement.vala:178: config_dirs :/etc/xdg
+** Message: 19:08:26.634: environement.vala:179: confir_dirs not null, export : /etc/xdg
+** Message: 19:08:26.634: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 19:08:26.634: environement.vala:218: custom_data :
+** Message: 19:08:26.634: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 19:08:26.634: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 19:08:26.634: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 19:08:26.634: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 19:08:26.634: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:21747): WARNING **: 19:08:26.634: utils.vala:70: Aucun fichier ou dossier de ce type
+** Message: 19:08:26.635: environement.vala:254: No entry in [Environment_variable]. Le fichier de clés n’a pas de groupe « Environment_variable »
+** Message: 19:08:26.638: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 19:08:26.638: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 19:08:26.638: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 19:08:26.638: options.vala:164: Activate xsettings_manager build-in
+** Message: 19:08:26.638: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 19:08:26.638: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:21747): WARNING **: 19:08:26.638: utils.vala:70: Aucun fichier ou dossier de ce type
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: 19:08:26.650: app.vala:721: polkit separate
+** Message: 19:08:26.651: app.vala:721: polkit separate
+** Message: 19:08:26.654: app.vala:76: Launching lxpolkit 
+** Message: 19:08:26.654: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 19:08:26.654: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 19:08:26.654: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 19:08:26.655: autostart.vala:42: Autostart path : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 19:08:26.659: app.vala:76: Launching lxpanel 
+** Message: 19:08:26.682: app.vala:76: Launching pcmanfm 
+
+** (lxsession:21747): WARNING **: 19:08:26.689: app.vala:86: L’exécution du processus fils « xscreensaver » a échoué (Aucun fichier ou dossier de ce type)
+
+** (lxsession:21747): WARNING **: 19:08:26.689: app.vala:87: Error when launching xscreensaver
+** Message: 19:08:26.712: options.vala:107: Create build-in Clipboard
+** Message: 19:08:26.714: main.vala:441: Check keymap_mode (null)
+** Message: 19:08:26.744: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-fcX30ztlAmrR/agent.21815; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=21829; export SSH_AGENT_PID;
+echo Agent pid 21829;
+** Message: 19:08:26.771: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+** Message: 19:08:26.774: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: 19:08:26.790: x-terminal-emulator has very limited support, consider choose another terminal
+grep: /opt/website/.config/lxpanel/LXDE-pi/panels/*: Aucun fichier ou dossier de ce type
+Openbox-Message: Impossible de trouver un fichier de menus valide  « /usr/share/lxde/openbox/menu.xml »
+** Message: 19:08:27.090: Connecting ...
+** Message: 19:08:27.090: Status changed to down
+
+** (lxpanel:21807): WARNING **: 19:08:27.094: volumealsa: Device invalid - cannot attach mixer
+Unit pt-device-manager.service could not be found.
+
+** (lxpanel:21807): WARNING **: 19:08:27.198: Battery 0 not found
+
+(lxpanel:21807): Gtk-CRITICAL **: 19:08:27.411: IA__gtk_image_set_from_pixbuf: assertion 'GTK_IS_IMAGE (image)' failed
+** Message: 19:08:28.092: Status changed to opened
+** Message: 19:08:28.092: Connected to dhcpcd-8.1.2
+** Message: 19:08:28.093: Status changed to connected
+** Message: 19:08:28.093: eth0: CARRIER
+** Message: 19:08:28.093: eth0: Configured 169.254.190.79/16
+** Message: 19:08:28.093: wlan0: Associated with freebox_mika
+** Message: 19:08:28.093: wlan0: Configured 192.168.0.100/24
+** Message: 19:08:28.093: wlan0: ROUTERADVERT
+
+(mousepad:21994): Gtk-WARNING **: 19:12:01.621: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:21994): Gtk-WARNING **: 19:12:01.621: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:21994): Gtk-WARNING **: 19:12:01.621: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:21994): Gtk-WARNING **: 19:12:01.621: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:21994): Gtk-WARNING **: 19:12:01.621: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22016): Gtk-WARNING **: 19:12:13.328: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22016): Gtk-WARNING **: 19:12:13.328: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22016): Gtk-WARNING **: 19:12:13.329: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22016): Gtk-WARNING **: 19:12:13.329: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22016): Gtk-WARNING **: 19:12:13.329: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22045): Gtk-WARNING **: 19:15:09.108: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22045): Gtk-WARNING **: 19:15:09.108: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22045): Gtk-WARNING **: 19:15:09.108: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22045): Gtk-WARNING **: 19:15:09.108: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22045): Gtk-WARNING **: 19:15:09.108: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22062): Gtk-WARNING **: 19:15:16.741: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22062): Gtk-WARNING **: 19:15:16.741: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22062): Gtk-WARNING **: 19:15:16.741: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22062): Gtk-WARNING **: 19:15:16.741: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22062): Gtk-WARNING **: 19:15:16.741: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22098): Gtk-WARNING **: 19:17:28.232: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22098): Gtk-WARNING **: 19:17:28.232: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22098): Gtk-WARNING **: 19:17:28.232: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22098): Gtk-WARNING **: 19:17:28.232: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22098): Gtk-WARNING **: 19:17:28.232: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22155): Gtk-WARNING **: 19:18:32.039: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22155): Gtk-WARNING **: 19:18:32.039: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22155): Gtk-WARNING **: 19:18:32.039: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22155): Gtk-WARNING **: 19:18:32.039: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22155): Gtk-WARNING **: 19:18:32.039: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22203): Gtk-WARNING **: 19:20:19.871: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22203): Gtk-WARNING **: 19:20:19.871: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22203): Gtk-WARNING **: 19:20:19.871: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22203): Gtk-WARNING **: 19:20:19.871: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22203): Gtk-WARNING **: 19:20:19.871: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22223): Gtk-WARNING **: 19:20:56.237: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22223): Gtk-WARNING **: 19:20:56.237: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22223): Gtk-WARNING **: 19:20:56.238: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22223): Gtk-WARNING **: 19:20:56.238: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22223): Gtk-WARNING **: 19:20:56.238: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22242): Gtk-WARNING **: 19:21:09.951: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22242): Gtk-WARNING **: 19:21:09.951: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22242): Gtk-WARNING **: 19:21:09.952: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22242): Gtk-WARNING **: 19:21:09.952: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22242): Gtk-WARNING **: 19:21:09.952: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22260): Gtk-WARNING **: 19:21:22.210: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22260): Gtk-WARNING **: 19:21:22.210: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22260): Gtk-WARNING **: 19:21:22.210: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22260): Gtk-WARNING **: 19:21:22.210: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22260): Gtk-WARNING **: 19:21:22.210: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22321): Gtk-WARNING **: 19:23:24.140: Theme parsing error: <data>:2:29: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22321): Gtk-WARNING **: 19:23:24.141: Theme parsing error: <data>:3:37: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22321): Gtk-WARNING **: 19:23:24.141: Theme parsing error: <data>:4:27: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22321): Gtk-WARNING **: 19:23:24.141: Theme parsing error: <data>:5:31: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(mousepad:22321): Gtk-WARNING **: 19:23:24.141: Theme parsing error: <data>:6:28: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+sudo: aucun mot de passe fourni
+Désolé, essayez de nouveau.
+Désolé, essayez de nouveau.
+sudo: 3 saisies de mots de passe incorrectes
+Gdk-Message: 21:50:17.512: lxterminal: Fatal IO error 11 (Ressource temporairement non disponible) on X server :1.0.
+
+lxsession: Fatal IO error 11 (Ressource temporairement non disponible) on X server :1.
+openbox-lxde-pi (null) 
+lxpolkit (null) 
+lxpanel --profile LXDE-pi (null) 
+pcmanfm --desktop --profile LXDE-pi (null) 
+/usr/bin/ssh-agent -s (null) 
+XIO:  fatal IO error 11 (Ressource temporairement non disponible) on X server ":1"
+      after 231317 requests (231317 known processed) with 2 events remaining.
+lxpolkit: Fatal IO error 11 (Ressource temporairement non disponible) on X server :1.
+lxpanel: Fatal IO error 4 (Appel système interrompu) on X server :1.
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":1"
+      after 37 requests (29 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Ressource temporairement non disponible) on X server :1.

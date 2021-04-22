@@ -1,0 +1,8 @@
+---
+3.0.1 jekyll:~> 4.1,jekyll-archives:~> 2.2,jekyll-paginate:~> 1.1,jekyll-redirect-from:~> 0.16,jekyll-seo-tag:~> 2.7,jekyll-sitemap:~> 1.4|checksum:b61f08b1e2a0a32a1109f8ae4fff4e9a8c4bc71332915a20a0eec0a0f6be6a9d
+3.0.2 jekyll:~> 4.1,jekyll-archives:~> 2.2,jekyll-paginate:~> 1.1,jekyll-redirect-from:~> 0.16,jekyll-seo-tag:~> 2.7,jekyll-sitemap:~> 1.4|checksum:c7cb86fda47a358beef4598405e7fd289628158257e553fe4f6cdfdebe796ede
+3.0.3 jekyll:~> 4.1,jekyll-archives:~> 2.2,jekyll-paginate:~> 1.1,jekyll-redirect-from:~> 0.16,jekyll-seo-tag:~> 2.7,jekyll-sitemap:~> 1.4|checksum:b523454dcedf4ddf38bd6634321bcedc29a2795f3a285c717f628ece2d058367
+3.1.0 jekyll:~> 4.1,jekyll-archives:~> 2.2,jekyll-paginate:~> 1.1,jekyll-redirect-from:~> 0.16,jekyll-seo-tag:~> 2.7,jekyll-sitemap:~> 1.4|checksum:4cce6f9158daf78131c3ad364d012ebe79c0769324bf8d4d78dd7e9bfb11831f
+3.1.1 jekyll:~> 4.1,jekyll-archives:~> 2.2,jekyll-paginate:~> 1.1,jekyll-redirect-from:~> 0.16,jekyll-seo-tag:~> 2.7,jekyll-sitemap:~> 1.4|checksum:51254f13083e4971c74658cd7880b97e98bcc3aabd9f6797bc762f44e7d20e97
+3.2.0 jekyll:~> 4.1,jekyll-archives:~> 2.2,jekyll-paginate:~> 1.1,jekyll-redirect-from:~> 0.16,jekyll-seo-tag:~> 2.7,jekyll-sitemap:~> 1.4|checksum:20371e545d3fc391bb898515c1f850a0a7c1ff68f91614940cecaf4c697f37f5
+3.2.1 jekyll:~> 4.1,jekyll-archives:~> 2.2,jekyll-paginate:~> 1.1,jekyll-redirect-from:~> 0.16,jekyll-seo-tag:~> 2.7,jekyll-sitemap:~> 1.4|checksum:40124a70b8f2913167ec11c637d511c988def4a1ad18773eebdfa1cf8ade6352
